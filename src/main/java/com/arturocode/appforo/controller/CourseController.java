@@ -1,7 +1,6 @@
 package com.arturocode.appforo.controller;
 
 import com.arturocode.appforo.dto.CourseDTO;
-import com.arturocode.appforo.entity.Course;
 import com.arturocode.appforo.service.CourseService;
 
 import java.util.List;
